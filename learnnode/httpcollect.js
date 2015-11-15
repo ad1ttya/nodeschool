@@ -11,4 +11,4 @@ http.get(process.argv[2], (response) => {
         console.log(content.toString());
     });
     response.on('error', console.error);
-})
+});
