@@ -9,6 +9,7 @@
   "author": "Adittya G <ad1ttya@hotmail.com>",
   "license": "ISC",
   "dependencies": {
+    "async": "^1.5.0",
     "bl": "^1.0.0",
     "through2-map": "^2.0.0"
   }
