@@ -8,6 +8,7 @@
 * introtowebgl
 * learnyoumongo
 * lololodash
+* makemehapi
 * nodebot-workshop
 * regex-adventure
 * torrential
