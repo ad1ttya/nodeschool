@@ -5,4 +5,4 @@
 * makemehapi
 * nodebot-workshop
 * regex-adventure
-* web-audio-school - node code involved
+* web-audio-school - no code involved
